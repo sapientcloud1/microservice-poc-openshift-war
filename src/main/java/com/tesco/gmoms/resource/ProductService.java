@@ -6,7 +6,7 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import com.horizon.common.pojo.Product;
+import com.tesco.gmoms.pojo.Product;
 
 
 @Path("/product/{productId}")
